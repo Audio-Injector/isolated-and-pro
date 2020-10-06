@@ -37,6 +37,9 @@ if [ "$cnt" -eq "0" ]; then
   dtoverlay=audioinjector-isolated-soundcard' >> /boot/config.txt
 fi
 ```
+# case
+
+Michael Gardner's 3D printable case : https://www.myminifactory.com/object/3d-print-136656
 
 # Hardware Assembly
  -- to come --
