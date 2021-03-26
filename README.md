@@ -25,6 +25,9 @@ Edit your /boot/config.txt file to enable the Ultra's device tree overlay :
 dtoverlay=audioinjector-isolated-soundcard
 ```  
 
+NOTE : If the card is showed as installed but you can't use it, double check it isn't a pulseaudio issue by removing pulseaudio from the system.
+```sudo apt remove pulseaudio```
+
 # Manual Setup bash command script :
 ```
 sudo rpi-update
