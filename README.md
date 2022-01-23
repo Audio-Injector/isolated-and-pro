@@ -1,5 +1,5 @@
 # isolated
-Isolated sound card - 192khz, 24 bit, implementing the AI-AIS-v1.0
+Isolated and pro sound card - 192khz, 24 bit, implementing the AI-AIS-v1.0
 
 [If you want to discuss these products, or topics around hearing, acoustics and audio, join the audio injector email list.](https://lists.audioinjector.net/mailman/listinfo/people)
 
